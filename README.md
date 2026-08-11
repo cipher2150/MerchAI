@@ -37,6 +37,7 @@ The project uses **PySpark, Delta Lake, and SQL** to perform data ingestion, tra
                     │  Business-Ready    │
                     │  Analytical Data   │
                     └─────────────────────┘
+```
 
 
 ![Dashboard Snapshot](./assets/D1.png)
