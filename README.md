@@ -6,6 +6,8 @@ The project uses **PySpark, Delta Lake, and SQL** to perform data ingestion, tra
 
 ---
 
+![Dashboard Snapshot](./assets/D1.png)
+
 ## Architecture
 
 ```text
@@ -39,5 +41,3 @@ The project uses **PySpark, Delta Lake, and SQL** to perform data ingestion, tra
                     └─────────────────────┘
 ```
 
-
-![Dashboard Snapshot](./assets/D1.png)
