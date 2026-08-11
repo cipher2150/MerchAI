@@ -38,4 +38,4 @@ The project uses **PySpark, Delta Lake, and SQL** to perform data ingestion, tra
                     │  Analytical Data   │
                     └─────────────────────┘
 
-<img width="1931" height="958" alt="Screenshot 2026-08-11 at 11 51 12 PM" src="https://github.com/user-attachments/assets/5a20fdb9-2934-4580-bdaf-d30ec13961f7" />
+<img width="1931" height="958" alt="Dashboard Snapshot" src="D1.png" />
